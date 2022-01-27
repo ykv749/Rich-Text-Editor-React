@@ -2,9 +2,9 @@
 
 ## Description
 
-We will build a rich text editor using HTML, CSS, JavaScript, DraftJs, ReactJs.
+We will build a rich text editor using HTML, CSS, JavaScript, DraftJs, ReactJs. [LIVE](https://ykv749.github.io/RICH-TEXT-EDITOR-REACT/)
 
-![Demo](Demo.png)
+![Demo](Demo.PNG)
 
 ### Prerequisites
 
